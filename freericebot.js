@@ -25,7 +25,7 @@ function freericebot() {
     // document.querySelectorAll("div.card-button")
 
     /*** SET THIS VARIABLE BEFORE RUNNING THE BOT ***/
-    this.riceWanted = 30; // amount of rice wanted
+    this.riceWanted = 1000000000000000000000000000000000000000000000000; // amount of rice wanted
 
 
     this.timeout = 0;
